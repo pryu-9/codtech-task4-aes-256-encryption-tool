@@ -3,9 +3,9 @@ Advanced AES-256 file encryption/decryption tool for Codtech Cybersecurity Task 
 # CODTECH CYBERSECURITY INTERNSHIP - TASK 4
 
 **Intern Name:** Pratiksha Bhusare  
-**Intern ID:** [YOUR INTERN ID]  
+**Intern ID:** [CT6MDR50]  
 **Domain:** Cybersecurity (CS-EH)  
-**Batch:** [YOUR BATCH NAME]  
+**Batch:** [CT INTERNS ST23]  
 **Duration:** Sept 25, 2025 - March 20, 2026  
 **Mentor:** Nila Santos  
 
